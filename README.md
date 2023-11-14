@@ -26,7 +26,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://taplink.cc/eldboyplay" target="_blank">
+    <a href="https://taplink.cc/eldboy" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <!-- <a href="https://t.me/tehnomaniak07" target="_blank">
