@@ -19,7 +19,7 @@
 
 - :zap: VK Testers - занимался тестированием VK Mini Apps приложений
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-eldboyplay-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eldboyplay) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:fr.dedpr@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-eldboy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eldboy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:fr.dedpr@gmail.com)
 
 ---
 
