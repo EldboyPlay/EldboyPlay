@@ -98,7 +98,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/Eldboy/badges/large)
+<!-- ![codewars](https://www.codewars.com/users/Eldboy/badges/large) ПОЗЖЕ УКАЖУ ССЫЛКУ--> 
 
 ### ⚙️ GitHub статистика:
 
