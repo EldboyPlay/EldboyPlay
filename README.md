@@ -19,7 +19,7 @@
 
 - :zap: VK Testers - занимался тестированием VK Mini Apps приложений
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-eldboy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eldboy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:fr.dedpr@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-baersmoch-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/baersmoch) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:fr.dedpr@gmail.com)
 
 ---
 
@@ -29,7 +29,7 @@
     <a href="https://taplink.cc/eldboy" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <!-- <a href="https://t.me/tehnomaniak07" target="_blank">
+    <!-- <a href="https://t.me/????" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a -->
     <a href="https://www.youtube.com/@eldboyplay" target="_blank">
@@ -38,7 +38,7 @@
     <a href="https://vk.com/eldboyplay" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <!-- <a href="https://dzen.ru/tehnomaniak" target="_blank">
+    <!-- <a href="https://dzen.ru/????" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a> -->
   </div>
@@ -85,8 +85,8 @@
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
+| netology.ru/Старт в программировании                            | 02/2015 - 05/2016 |
+| stepik.org/Основы программирования на Python. Задачи.           | 12/2016 - 12/2017 |
 | netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
 | netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
 | stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
