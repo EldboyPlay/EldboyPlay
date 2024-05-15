@@ -1,5 +1,5 @@
 
-# Hi, my name is Eldboy(Vladislav)!
+# Hi, my name is Eldboy!
 
 ---
 
