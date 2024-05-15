@@ -5,7 +5,7 @@
 
 ### About me:
 
-My name is Eldboy(Vladislav), I'm Full Stack - web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with more than five years of experience, and I would like to tell you briefly about myself: I always adhere to high standards of responsibility in the performance of my duties. It is important to me that all tasks are completed on time and with outstanding results. 🔍
+My name is Eldboy, I'm Full Stack - web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with more than five years of experience, and I would like to tell you briefly about myself: I always adhere to high standards of responsibility in the performance of my duties. It is important to me that all tasks are completed on time and with outstanding results. 🔍
 
 I strive for high accuracy and timely completion of assigned tasks, I also excel at communicating with clients, quickly establishing rapport, have professionalism and am constantly improving my skills by staying abreast of new technologies. Independence and organization is my highlight in my work to effectively manage my time and resources independently. Problem solving and analytical finding optimal solutions to problems together with creativity I bring innovative ideas to problem solving. 😊💥
 
