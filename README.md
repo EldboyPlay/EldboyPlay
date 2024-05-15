@@ -22,7 +22,7 @@ I strive for high accuracy and timely completion of assigned tasks, I also excel
 - :zap: VK Testers - engaged in testing VK Mini Apps applications
 
 <!-- ----------------- НАЧАОЛО КОММЕНТИРОВАНИЯ ------------------
-- How to contact me: [![Telegram Badge](https://img.shields.io/badge/-baersmoch-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/baersmoch) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:fr.dedpr@gmail.com)
+- How to contact me: [![Telegram Badge](https://img.shields.io/badge/-eldboy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/eldboy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:fr.dedpr@gmail.com)
 
 ---
 
