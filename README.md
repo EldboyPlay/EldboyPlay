@@ -1,11 +1,11 @@
 
-# Hi, my name is Eldboy!
+# Hi, my name is Eldboy(Vladislav)!
 
 ---
 
 ### About me:
 
-My name is Eldboy, I'm Full Stack - web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with more than five years of experience, and I would like to tell you briefly about myself: I always adhere to high standards of responsibility in the performance of my duties. It is important to me that all tasks are completed on time and with outstanding results. 🔍
+My name is Eldboy(Vladislav), I'm Full Stack - web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> with more than five years of experience, and I would like to tell you briefly about myself: I always adhere to high standards of responsibility in the performance of my duties. It is important to me that all tasks are completed on time and with outstanding results. 🔍
 
 I strive for high accuracy and timely completion of assigned tasks, I also excel at communicating with clients, quickly establishing rapport, have professionalism and am constantly improving my skills by staying abreast of new technologies. Independence and organization is my highlight in my work to effectively manage my time and resources independently. Problem solving and analytical finding optimal solutions to problems together with creativity I bring innovative ideas to problem solving. 😊💥
 
@@ -21,26 +21,26 @@ I strive for high accuracy and timely completion of assigned tasks, I also excel
 
 - :zap: VK Testers - engaged in testing VK Mini Apps applications
 
-- How to contact me: [![Telegram Badge](https://img.shields.io/badge/-baersmoch-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/baersmoch) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:fr.dedpr@gmail.com)
+<!-- - How to contact me: [![Telegram Badge](https://img.shields.io/badge/-baersmoch-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/baersmoch) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:fr.dedpr@gmail.com)
 
 ---
 
 ### 🤝 Social Media:
 
   <div id="badges">
-    <a href="https://taplink.cc/eldboy" target="_blank">
+     <!-- <a href="https://taplink.cc/eldboy" target="_blank">  
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <!-- <a href="https://t.me/????" target="_blank">
+     <a href="https://t.me/????" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a -->
-    <a href="https://www.youtube.com/@eldboyplay" target="_blank">
+   <!-- <a href="https://www.youtube.com/@eldboyplay" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
     <a> 
     <a href="https://vk.com/eldboyplay" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <!-- <a href="https://dzen.ru/????" target="_blank">
+     <a href="https://dzen.ru/????" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yandex_Zen_logo_icon.svg/1024px-Yandex_Zen_logo_icon.svg.png" width="40" height="40" alt="Zen Badge"/>
     </a> -->
   </div>
@@ -83,7 +83,7 @@ I strive for high accuracy and timely completion of assigned tasks, I also excel
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+ ### 💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
@@ -91,12 +91,12 @@ I strive for high accuracy and timely completion of assigned tasks, I also excel
 | stepik.org/Основы программирования на Python. Задачи.           | 12/2016 - 12/2017 |
 | netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
 | netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 09/2022 - 12/2022 |
+| stepik.org/JavaScript для начинающих                            | 01/2023 - 04/2023 |
+| stepik.org/Web-технологии: начальный уровень                    | 11/2023 - 02/2024 |
+| practicum.yandex/Факультет Веб разработки                       | 05/2022 - 07/2023 |
 
---- -->
+--- 
 
 <!-- ### 💻 Codewars:
 
